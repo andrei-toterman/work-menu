@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Menu</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: "Inter", sans-serif;
+            background-color: #f3f4f6;
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 900px;
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .collapsible-header {
+            background-color: #4f46e5;
+            color: white;
+            padding: 16px 24px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #6366f1;
+            font-size: 1.25rem;
+            font-weight: 600;
+            border-radius: 12px 12px 0 0;
+            transition: background-color 0.3s ease;
+        }
+
+        .collapsible-header:hover {
+            background-color: #4338ca;
+        }
+
+        .collapsible-content {
+            padding: 20px;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out, padding 0.5s ease-out;
+            background-color: #f9fafb;
+            border-radius: 0 0 12px 12px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .collapsible-content.active {
+            max-height: 10000px;
+            padding: 20px;
+        }
+
+        .menu-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            padding: 15px;
+            transition: transform 0.2s ease;
+            width: calc(33% - 20px);
+            min-width: 250px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        @media (max-width: 768px) {
+            .menu-item {
+                width: calc(50% - 20px);
+            }
+        }
+
+        @media (max-width: 480px) {
+            .menu-item {
+                width: 100%;
+            }
+        }
+
+        .menu-item img {
+            width: 280px;
+            height: 280px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+
+        .menu-item-details h3 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #1f2937;
+            margin-bottom: 5px;
+        }
+
+        .menu-item-details p {
+            font-size: 0.9rem;
+            color: #4b5563;
+            line-height: 1.4;
+        }
+
+        .arrow {
+            transition: transform 0.3s ease;
+        }
+
+        .arrow.rotate {
+            transform: rotate(90deg);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-3xl font-bold text-center py-6 text-gray-800 bg-white rounded-t-xl">Weekly Menu</h1>
+        <div id="menu-container"></div>
+    </div>
+
+    <script src="./menu.js"></script>
+    <script type="text/javascript">
+        const menuContainer = document.getElementById('menu-container');
+
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+            return date.toLocaleDateString('en-US', options);
+        }
+
+        for (const date in menu_per_day) {
+            const dailyMenu = menu_per_day[date];
+            const formattedDate = formatDate(date);
+
+            const header = document.createElement('div');
+            header.className = 'collapsible-header';
+            header.innerHTML = `
+                        <span>${formattedDate}</span>
+                        <svg class="arrow w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                        </svg>
+                    `;
+            menuContainer.appendChild(header);
+
+            // Create the collapsible content
+            const content = document.createElement('div');
+            content.className = 'collapsible-content';
+
+            // Add menu items to the content
+            dailyMenu.forEach(item => {
+                const menuItem = document.createElement('div');
+                menuItem.className = 'menu-item';
+                menuItem.innerHTML = `
+                            <img src="${item.image}" alt="${item.name}">
+                            <div class="menu-item-details">
+                                <h3>${item.name}</h3>
+                                <p>${item.description ? item.description.replace(/\n/g, '<br>') : 'No description available.'}</p>
+                            </div>
+                        `;
+                content.appendChild(menuItem);
+            });
+            menuContainer.appendChild(content);
+
+            // Add click event listener to toggle collapse
+            header.addEventListener('click', () => {
+                content.classList.toggle('active');
+                header.querySelector('.arrow').classList.toggle('rotate');
+            });
+        }
+    </script>
+</body>
+
+</html>
