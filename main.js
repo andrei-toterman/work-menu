@@ -86,13 +86,13 @@ function dateToStr(date) {
 }
 
 function getDateForDay(i) {
-    const today = new Date();
-    const currentDay = today.getDay();
-    const daysUntilMonday = (7 - currentDay + 1) % 7 || 7;
-    const nextMonday = new Date(today);
-    nextMonday.setDate(today.getDate() + daysUntilMonday);
-    const date = new Date(nextMonday);
-    date.setDate(date.getDate() + i);
+    // how many days do we have to offset until Monday?
+    // if it's Sunday or Saturday, we want next Monday
+    // Sunday is day 0 in JS
+    const dateOffsets = [1, 0, -1, -2, -3, -4, 2];
+    const date = new Date();
+    const currentDay = date.getDay();
+    date.setDate(date.getDate() + dateOffsets[currentDay]);
     return date;
 }
 
