@@ -92,7 +92,7 @@ function getDateForDay(i) {
     const dateOffsets = [1, 0, -1, -2, -3, -4, 2];
     const date = new Date();
     const currentDay = date.getDay();
-    date.setDate(date.getDate() + dateOffsets[currentDay]);
+    date.setDate(date.getDate() + dateOffsets[currentDay] + i);
     return date;
 }
 
