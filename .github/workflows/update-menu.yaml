@@ -1,0 +1,27 @@
+name: Weekly menu update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * SUN
+
+jobs:
+  update-data:
+    name: Update data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Retrieve repository
+        uses: actions/checkout@v4
+
+      - name: Fetch data
+        run: node fetch_menu.js > menu.js
+
+      - name: Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add menu.js
+          git commit -m "updated menu"
+          git push
