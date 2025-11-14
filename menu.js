@@ -1,4 +1,4 @@
-// updated on 2025-11-09T01:26:51.870Z
+// updated on 2025-11-14T16:34:21.715Z
 const menu_per_day = {
   "2025-11-10": [
     {
@@ -14,7 +14,7 @@ const menu_per_day = {
     {
       "name": "Zucchini caraway soup",
       "description": "topping: roasted seedmix",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/115/image/original/zucchini-caraway-soup.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/196/image/original/zucchini-caraway-soup.png"
     },
     {
       "name": "Cinnamon infused dried fruit with yogurt",
@@ -35,6 +35,21 @@ const menu_per_day = {
       "name": "Chocolate peanut pie with whipped cream",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/898/image/original/chocolate-peanut-pie-with-whipped-cream.png"
+    },
+    {
+      "name": "Noodle soup with tender beef and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/802/image/original/noodle-soup-with-tender-beef-and-aromatic-broth.png"
+    },
+    {
+      "name": "Noodle soup with marinated eggplant and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/132/image/original/noodle-soup-with-marinated-eggplant-and-aromatic-broth.png"
+    },
+    {
+      "name": "Cinnamon infused dried fruit with yogurt",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/127/image/original/cinnamon-infused-dried-fruit-with-yogurt.png"
     },
     {
       "name": "Basic bagel (half)",
@@ -90,8 +105,8 @@ const menu_per_day = {
     },
     {
       "name": "Celeriac soup with capers and roasted garlic",
-      "description": "parsley\nPresentation may differ from picture shown",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/367/image/original/celeriac-soup-with-capers-and-roasted-garlic.png"
+      "description": "parsley\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/187/image/original/celeriac-soup-with-capers-and-roasted-garlic.png"
     },
     {
       "name": "Sweet potato cake",
@@ -127,6 +142,21 @@ const menu_per_day = {
       "name": "Chocolate peanut pie with whipped cream",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/898/image/original/chocolate-peanut-pie-with-whipped-cream.png"
+    },
+    {
+      "name": "Noodle soup with tender beef and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/802/image/original/noodle-soup-with-tender-beef-and-aromatic-broth.png"
+    },
+    {
+      "name": "Noodle soup with marinated eggplant and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/132/image/original/noodle-soup-with-marinated-eggplant-and-aromatic-broth.png"
+    },
+    {
+      "name": "Sweet potato cake",
+      "description": "with Cream Cheese Frosting and Pumpkin Seeds\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/588/image/original/sweet-potato-cake.png"
     },
     {
       "name": "Basic bagel (half)",
@@ -182,8 +212,8 @@ const menu_per_day = {
     },
     {
       "name": "Massaman curry potato soup",
-      "description": "smoked tofu\t\nPresentation may differ from picture shown",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/595/image/original/massaman-curry-potato-soup.png"
+      "description": "smoked tofu\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/183/image/original/massaman-curry-potato-soup.png"
     },
     {
       "name": "Sweet potato cake",
@@ -219,6 +249,21 @@ const menu_per_day = {
       "name": "Chocolate peanut pie with whipped cream",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/898/image/original/chocolate-peanut-pie-with-whipped-cream.png"
+    },
+    {
+      "name": "Noodle soup with tender beef and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/802/image/original/noodle-soup-with-tender-beef-and-aromatic-broth.png"
+    },
+    {
+      "name": "Noodle soup with marinated eggplant and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/132/image/original/noodle-soup-with-marinated-eggplant-and-aromatic-broth.png"
+    },
+    {
+      "name": "Sweet potato cake",
+      "description": "with Cream Cheese Frosting and Pumpkin Seeds\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/588/image/original/sweet-potato-cake.png"
     },
     {
       "name": "Basic bagel (half)",
@@ -275,7 +320,7 @@ const menu_per_day = {
     {
       "name": "Roasted pumpkin soup with sage",
       "description": "pumpkin seeds\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/558/image/original/roasted-pumpkin-soup-with-sage.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/175/image/original/roasted-pumpkin-soup-with-sage.png"
     },
     {
       "name": "Chai carrot cake with lime and rose icing",
@@ -316,6 +361,21 @@ const menu_per_day = {
       "name": "Chocolate peanut pie with whipped cream",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/898/image/original/chocolate-peanut-pie-with-whipped-cream.png"
+    },
+    {
+      "name": "Noodle soup with tender beef and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/802/image/original/noodle-soup-with-tender-beef-and-aromatic-broth.png"
+    },
+    {
+      "name": "Noodle soup with marinated eggplant and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/132/image/original/noodle-soup-with-marinated-eggplant-and-aromatic-broth.png"
+    },
+    {
+      "name": "Chai carrot cake with lime and rose icing",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/128/image/original/chai-carrot-cake-with-lime-and-rose-icing.png"
     },
     {
       "name": "Basic bagel (half)",
@@ -371,8 +431,8 @@ const menu_per_day = {
     },
     {
       "name": "Mexican bean soup",
-      "description": "Topping: nacho crumble\nPresentation may differ from picture shown",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/326/image/original/mexican-bean-soup.png"
+      "description": "nacho chips\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/180/image/original/mexican-bean-soup.png"
     },
     {
       "name": "Chai carrot cake with lime and rose icing",
@@ -393,6 +453,21 @@ const menu_per_day = {
       "name": "Chocolate peanut pie with whipped cream",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/898/image/original/chocolate-peanut-pie-with-whipped-cream.png"
+    },
+    {
+      "name": "Chai carrot cake with lime and rose icing",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/128/image/original/chai-carrot-cake-with-lime-and-rose-icing.png"
+    },
+    {
+      "name": "Noodle soup with tender beef and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/802/image/original/noodle-soup-with-tender-beef-and-aromatic-broth.png"
+    },
+    {
+      "name": "Noodle soup with marinated eggplant and aromatic broth",
+      "description": "mushrooms | pak choi | scallions \n\nTopping: sesame oil |  furikake\n\n*this dish is gluten-free without the topping!",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/132/image/original/noodle-soup-with-marinated-eggplant-and-aromatic-broth.png"
     },
     {
       "name": "Basic bagel (half)",
@@ -430,9 +505,9 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/847/image/original/coppa-di-parma-white-bun.png"
     },
     {
-      "name": "Cottage cheese brown bun",
+      "name": "Mustard cheese brown bun",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/884/image/original/cottage-cheese-brown-bun.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/032/image/original/mustard-cheese-brown-bun.png"
     }
   ]
 };
