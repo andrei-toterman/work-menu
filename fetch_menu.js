@@ -69,6 +69,8 @@ async function get_menu(date, token) {
     const items = [];
     for (const restaurant of menu.data.dailyMenu.restaurants) {
         for (const item of restaurant.items) {
+            if (item.description?.includes('Breakfast will be served')) continue;
+            if (item.description?.includes('Start your day the NYC way')) continue;
             items.push({
                 name: item.name,
                 description: item.description,
