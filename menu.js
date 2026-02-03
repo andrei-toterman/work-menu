@@ -1,4 +1,4 @@
-// updated on 2026-02-01T02:12:07.765Z
+// updated on 2026-02-03T12:41:59.680Z
 const menu_per_day = {
   "2026-02-02": [
     {
@@ -9,7 +9,7 @@ const menu_per_day = {
     {
       "name": "Bell pepper stew with roasted potatoes and shrimp-style bites",
       "description": "taggiasca olives | samphire | tomato  toppings: parsley | lemon wedge",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/537/image/original/bell-pepper-stew-with-roasted-potatoes-and-shrimp-style-bites.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/920/image/original/bell-pepper-stew-with-roasted-potatoes-and-shrimp-style-bites.png"
     },
     {
       "name": "Soy broth with bulgur",
@@ -37,29 +37,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/390/image/original/poached-pears-with-chocolate.png"
     },
     {
-      "name": "Spicy rice noodles with chicken and green veggies",
+      "name": "Lunar New Year | Spicy rice noodles with chicken and green veggies",
       "description": "fish sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/610/image/original/spicy-rice-noodles-with-chicken-and-green-veggies.png"
     },
     {
-      "name": "Spicy rice noodles with tofu and green veggies",
-      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts\t\t\t\t",
+      "name": "Lunar New Year | Spicy rice noodles with tofu and green veggies",
+      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/611/image/original/spicy-rice-noodles-with-tofu-and-green-veggies.png"
     },
     {
       "name": "Winter fruit compote with whipped cream",
       "description": "and Almonds",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/530/image/original/winter-fruit-compote-with-whipped-cream.png"
-    },
-    {
-      "name": "Basic bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/089/image/original/Bagel_6[1].png"
-    },
-    {
-      "name": "Special bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/090/image/original/Bagel_10[1].png"
     },
     {
       "name": "Butter bean tomato salad with egg and PB bacon",
@@ -114,21 +104,6 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/496/image/original/chocolate-cream-puffs-with-orange-mousse.png"
     },
     {
-      "name": "Scrambled eggs with (vegan) bacon on sourdough toast",
-      "description": "Breakfast will be served from 08:00 till 10:30",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/299/image/original/DSC00928_A.png"
-    },
-    {
-      "name": "Mushrooms with (vegan) bacon on sourdough toast",
-      "description": "Breakfast will be served from 08:00 till 10:30.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/300/image/original/DSC00977_A.png"
-    },
-    {
-      "name": "American pancakes",
-      "description": "<p><span style=\"color: rgb(57, 57, 56); background-color: rgb(255, 255, 255);\">Breakfast will be served from 08:00 till 10:30.</span></p>",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/304/image/original/DSC01651_A.png"
-    },
-    {
       "name": "Slow cooked beef blade steak, pasta and winter veggie broth",
       "description": "miso | green salsa | star anise",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/554/image/original/slow-cooked-beef-blade-steak-pasta-and-winter-veggie-broth.png"
@@ -144,29 +119,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/390/image/original/poached-pears-with-chocolate.png"
     },
     {
-      "name": "Spicy rice noodles with chicken and green veggies",
+      "name": "Lunar New Year | Spicy rice noodles with chicken and green veggies",
       "description": "fish sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/610/image/original/spicy-rice-noodles-with-chicken-and-green-veggies.png"
     },
     {
-      "name": "Spicy rice noodles with tofu and green veggies",
-      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts\t\t\t\t",
+      "name": "Lunar New Year | Spicy rice noodles with tofu and green veggies",
+      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/611/image/original/spicy-rice-noodles-with-tofu-and-green-veggies.png"
     },
     {
       "name": "Chocolate cream puffs with orange mousse",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/496/image/original/chocolate-cream-puffs-with-orange-mousse.png"
-    },
-    {
-      "name": "Basic bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/089/image/original/Bagel_6[1].png"
-    },
-    {
-      "name": "Special bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/090/image/original/Bagel_10[1].png"
     },
     {
       "name": "Quinoa chickpea salad with caramelized balsamic onions",
@@ -221,21 +186,6 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/496/image/original/chocolate-cream-puffs-with-orange-mousse.png"
     },
     {
-      "name": "Scrambled eggs with (vegan) bacon on sourdough toast",
-      "description": "Breakfast will be served from 08:00 till 10:30",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/299/image/original/DSC00928_A.png"
-    },
-    {
-      "name": "Mushrooms with (vegan) bacon on sourdough toast",
-      "description": "Breakfast will be served from 08:00 till 10:30.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/300/image/original/DSC00977_A.png"
-    },
-    {
-      "name": "Belgian waffle with toppings",
-      "description": "Breakfast will be served from 08:00 till 10:30. Vegan waffle is available upon request!",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/302/image/original/DSC01590_A.png"
-    },
-    {
       "name": "Slow cooked beef blade steak, pasta and winter veggie broth",
       "description": "miso | green salsa | star anise",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/554/image/original/slow-cooked-beef-blade-steak-pasta-and-winter-veggie-broth.png"
@@ -251,29 +201,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/390/image/original/poached-pears-with-chocolate.png"
     },
     {
-      "name": "Spicy rice noodles with chicken and green veggies",
+      "name": "Lunar New Year | Spicy rice noodles with chicken and green veggies",
       "description": "fish sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/610/image/original/spicy-rice-noodles-with-chicken-and-green-veggies.png"
     },
     {
-      "name": "Spicy rice noodles with tofu and green veggies",
-      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts\t\t\t\t",
+      "name": "Lunar New Year | Spicy rice noodles with tofu and green veggies",
+      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/611/image/original/spicy-rice-noodles-with-tofu-and-green-veggies.png"
     },
     {
       "name": "Chocolate cream puffs with orange mousse",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/496/image/original/chocolate-cream-puffs-with-orange-mousse.png"
-    },
-    {
-      "name": "Basic bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/089/image/original/Bagel_6[1].png"
-    },
-    {
-      "name": "Special bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/090/image/original/Bagel_10[1].png"
     },
     {
       "name": "Macaroni salad with sweet potato and corn",
@@ -328,26 +268,6 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/758/image/original/pineapple-and-mint-fruit-salad.png"
     },
     {
-      "name": "Scrambled eggs with (vegan) bacon on sourdough toast",
-      "description": "Breakfast will be served from 08:00 till 10:30",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/299/image/original/DSC00928_A.png"
-    },
-    {
-      "name": "Mushrooms with (vegan) bacon on sourdough toast",
-      "description": "Breakfast will be served from 08:00 till 10:30.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/300/image/original/DSC00977_A.png"
-    },
-    {
-      "name": "American pancakes",
-      "description": "<p><span style=\"color: rgb(57, 57, 56); background-color: rgb(255, 255, 255);\">Breakfast will be served from 08:00 till 10:30.</span></p>",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/304/image/original/DSC01651_A.png"
-    },
-    {
-      "name": "Belgian waffle with toppings",
-      "description": "Breakfast will be served from 08:00 till 10:30. Vegan waffle is available upon request!",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/302/image/original/DSC01590_A.png"
-    },
-    {
       "name": "Slow cooked beef blade steak, pasta and winter veggie broth",
       "description": "miso | green salsa | star anise",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/554/image/original/slow-cooked-beef-blade-steak-pasta-and-winter-veggie-broth.png"
@@ -363,29 +283,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/390/image/original/poached-pears-with-chocolate.png"
     },
     {
-      "name": "Spicy rice noodles with chicken and green veggies",
+      "name": "Lunar New Year | Spicy rice noodles with chicken and green veggies",
       "description": "fish sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/610/image/original/spicy-rice-noodles-with-chicken-and-green-veggies.png"
     },
     {
-      "name": "Spicy rice noodles with tofu and green veggies",
-      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts\t\t\t\t",
+      "name": "Lunar New Year | Spicy rice noodles with tofu and green veggies",
+      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/611/image/original/spicy-rice-noodles-with-tofu-and-green-veggies.png"
     },
     {
       "name": "Pineapple and mint fruit salad",
       "description": "<p><strong>Fresh pineapple with lime juice and chopped mint.</strong></p>",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/758/image/original/pineapple-and-mint-fruit-salad.png"
-    },
-    {
-      "name": "Basic bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/089/image/original/Bagel_6[1].png"
-    },
-    {
-      "name": "Special bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/090/image/original/Bagel_10[1].png"
     },
     {
       "name": "Falafel with beetroot couscous and roasted vegetables",
@@ -455,12 +365,12 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/390/image/original/poached-pears-with-chocolate.png"
     },
     {
-      "name": "Spicy rice noodles with tofu and green veggies",
-      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts\t\t\t\t",
+      "name": "Lunar New Year | Spicy rice noodles with tofu and green veggies",
+      "description": "soy sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/611/image/original/spicy-rice-noodles-with-tofu-and-green-veggies.png"
     },
     {
-      "name": "Spicy rice noodles with chicken and green veggies",
+      "name": "Lunar New Year | Spicy rice noodles with chicken and green veggies",
       "description": "fish sauce | broccoli | string beans Topping: Thai basil | peanuts",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/610/image/original/spicy-rice-noodles-with-chicken-and-green-veggies.png"
     },
@@ -468,16 +378,6 @@ const menu_per_day = {
       "name": "Pineapple and mint fruit salad",
       "description": "<p><strong>Fresh pineapple with lime juice and chopped mint.</strong></p>",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/758/image/original/pineapple-and-mint-fruit-salad.png"
-    },
-    {
-      "name": "Basic bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/089/image/original/Bagel_6[1].png"
-    },
-    {
-      "name": "Special bagel (half)",
-      "description": "Start your day the NYC way - with fresh sourdough bagels from Breadwinner.\n\n*Subject to change weekly. Please feel free to ask our staff about the allergens.",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/090/image/original/Bagel_10[1].png"
     },
     {
       "name": "Pasta salad with chestnut and pecorino",
