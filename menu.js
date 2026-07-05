@@ -1,4 +1,4 @@
-// updated on 2026-07-05T00:42:05.276Z
+// updated on 2026-07-05T22:28:36.311Z
 const menu_per_day = {
   "2026-07-06": [
     {
