@@ -1,4 +1,4 @@
-// updated on 2026-07-12T02:35:56.879Z
+// updated on 2026-07-13T07:50:35.068Z
 const menu_per_day = {
   "2026-07-13": [
     {
@@ -22,19 +22,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/739/image/original/banana-cake-with-lemon-cream-and-chocolate.png"
     },
     {
-      "name": "Indian chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/472/image/original/indian-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo pork stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/524/image/original/vindaloo-pork-stew-with-string-beans.png"
     },
     {
-      "name": "Indian PB chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/471/image/original/indian-pb-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo mushroom stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/523/image/original/vindaloo-mushroom-stew-with-string-beans.png"
     },
     {
-      "name": "Indian fruit salad",
+      "name": "Saffron 'hangop' with blueberries and pistachio",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/947/image/original/indian-fruit-salad.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/941/image/original/saffron-hangop-with-blueberries-and-pistachio.png"
     },
     {
       "name": "Chili con carne (beef) with jalapeño salsa",
@@ -104,19 +104,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/812/image/original/mango-pineapple-and-grapes-with-coconut-dressing.png"
     },
     {
-      "name": "Indian chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/472/image/original/indian-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo pork stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/524/image/original/vindaloo-pork-stew-with-string-beans.png"
     },
     {
-      "name": "Indian PB chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/471/image/original/indian-pb-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo mushroom stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/523/image/original/vindaloo-mushroom-stew-with-string-beans.png"
     },
     {
-      "name": "Indian fruit salad",
+      "name": "Saffron 'hangop' with blueberries and pistachio",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/947/image/original/indian-fruit-salad.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/941/image/original/saffron-hangop-with-blueberries-and-pistachio.png"
     },
     {
       "name": "Fishburger and onion rings",
@@ -186,19 +186,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/812/image/original/mango-pineapple-and-grapes-with-coconut-dressing.png"
     },
     {
-      "name": "Indian chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/472/image/original/indian-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo pork stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/524/image/original/vindaloo-pork-stew-with-string-beans.png"
     },
     {
-      "name": "Indian PB chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/471/image/original/indian-pb-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo mushroom stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/523/image/original/vindaloo-mushroom-stew-with-string-beans.png"
     },
     {
-      "name": "Indian fruit salad",
+      "name": "Saffron 'hangop' with blueberries and pistachio",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/947/image/original/indian-fruit-salad.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/941/image/original/saffron-hangop-with-blueberries-and-pistachio.png"
     },
     {
       "name": "Chicken bara with kouseband salad and herby dip",
@@ -268,19 +268,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/737/image/original/crispy-sesame-balls-with-vanilla-cream.png"
     },
     {
-      "name": "Indian chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/472/image/original/indian-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo pork stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/524/image/original/vindaloo-pork-stew-with-string-beans.png"
     },
     {
-      "name": "Indian PB chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/471/image/original/indian-pb-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo mushroom stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/523/image/original/vindaloo-mushroom-stew-with-string-beans.png"
     },
     {
-      "name": "Indian fruit salad",
+      "name": "Saffron 'hangop' with blueberries and pistachio",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/947/image/original/indian-fruit-salad.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/941/image/original/saffron-hangop-with-blueberries-and-pistachio.png"
     },
     {
       "name": "Shrimp tacos",
@@ -350,19 +350,19 @@ const menu_per_day = {
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/737/image/original/crispy-sesame-balls-with-vanilla-cream.png"
     },
     {
-      "name": "Indian chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/472/image/original/indian-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo pork stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/524/image/original/vindaloo-pork-stew-with-string-beans.png"
     },
     {
-      "name": "Indian PB chicken soup with noodles (Thukpa)",
-      "description": "green beens | beans sprouts | sechuan pepper \n\ntoppings: spring onion | garlic oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/471/image/original/indian-pb-chicken-soup-with-noodles-thukpa.png"
+      "name": "Vindaloo mushroom stew with string beans",
+      "description": "white bun | peanuts | curry leaves\n\ntopping: peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/523/image/original/vindaloo-mushroom-stew-with-string-beans.png"
     },
     {
-      "name": "Indian fruit salad",
+      "name": "Saffron 'hangop' with blueberries and pistachio",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/947/image/original/indian-fruit-salad.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/941/image/original/saffron-hangop-with-blueberries-and-pistachio.png"
     },
     {
       "name": "Chicken gyoza with spicy Thai noodles",
