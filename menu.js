@@ -1,388 +1,413 @@
-// updated on 2026-08-16T01:10:46.587Z
+// updated on 2026-08-23T01:12:02.509Z
 const menu_per_day = {
-  "2026-08-17": [
+  "2026-08-24": [
     {
-      "name": "Sticky mango porkbelly with sweet potatoes mash and chimichurri",
-      "description": "sriracha | lime | broccoli \n\ntoppings: cilantro | roasted corn",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/718/image/original/sticky-mango-porkbelly-with-sweet-potatoes-mash-and-chimichurri.png"
+      "name": "Greek oven dish with minced beef and yogurt",
+      "description": "sweet potato salad | pickles | parsley\ttoppings: walnuts | pecorino herb dressing",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/669/image/original/greek-oven-dish-with-minced-beef-and-yogurt.png"
     },
     {
-      "name": "North African eggplant bake with creamy chickpea topping",
-      "description": "radicchio salad | cucumber | raisins\ttoppings: yogurt sauce | smoked almonds",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/558/image/original/north-african-eggplant-bake-with-creamy-chickpea-topping.png"
+      "name": "Brazilian-style fried black bean bowl (Feijoada)",
+      "description": "wild rice | beyond meat bites | fresh salsa\ttoppings: cassave chips | smoked almonds",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/999/image/original/brazilian-style-fried-black-bean-bowl-feijoada.png"
     },
     {
-      "name": "Tomato beet soup with olive and citrus",
-      "description": "dill\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/107/image/original/tomato-beet-soup-with-olive-and-citrus.png"
+      "name": "Corn soup",
+      "description": "smoky croutons\n*gluten-free without the topping",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/766/image/original/corn-soup.png"
     },
     {
-      "name": "Buttery croissant bake with macerated strawberries and cream",
+      "name": "Coconut macaroon with kaffir lime cream and fruit",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/025/image/original/buttery-croissant-bake-with-macerated-strawberries-and-cream.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/575/image/original/coconut-macaroon-with-kaffir-lime-cream-and-fruit.png"
     },
     {
-      "name": "Roasted chili prawns with cheesy polenta",
-      "description": "fennel | orange | spring onion\n\ntoppings: PB bacon | bulls salad",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/618/image/original/roasted-chili-prawns-with-cheesy-polenta.png"
+      "name": "Noodle soup with marinated duck and shiitake",
+      "description": "bean sprouts | bok choy | ginger \n\ntopping: spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/643/image/original/noodle-soup-with-marinated-duck-and-shiitake.png"
     },
     {
-      "name": "Roasted chili PB prawns with cheesy polenta",
+      "name": "Noodle soup with marinated tofu and shiitake",
+      "description": "bean sprouts | bok choy | ginger topping: spring onion\n",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/642/image/original/noodle-soup-with-marinated-tofu-and-shiitake.png"
+    },
+    {
+      "name": "Poached pears with merengue and chocolate",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/619/image/original/roasted-chili-pb-prawns-with-cheesy-polenta.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/498/image/original/poached-pears-with-merengue-and-chocolate.png"
     },
     {
-      "name": "Roasted chili pineapple with basil mousse",
+      "name": "Japanese fried chicken and sushi rice",
+      "description": "wasabi mayonaise | black sesame",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/058/image/original/japanese-fried-chicken-and-sushi-rice.png"
+    },
+    {
+      "name": "Japanese fried cauliflower and sushi rice",
+      "description": "wasabi mayonaise | black sesame",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/059/image/original/japanese-fried-cauliflower-and-sushi-rice.png"
+    },
+    {
+      "name": "Coconut macaroon with kaffir lime cream and fruit",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/494/image/original/roasted-chili-pineapple-with-basil-mousse.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/575/image/original/coconut-macaroon-with-kaffir-lime-cream-and-fruit.png"
     },
     {
-      "name": "Chicken roti roll with cabbage and pineapple salad",
-      "description": "apple | carrot | red onion topping: cilantro & curry mayo",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/542/image/original/chicken-roti-roll-with-cabbage-and-pineapple-salad.png"
+      "name": "Middle Eastern chickpea salad with flatbread",
+      "description": "broccoli | bell pepper | soy yogurt\ttopping: za'atar flatbread dressing: sumac pomegranate",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/780/image/original/middle-eastern-chickpea-salad-with-flatbread.png"
     },
     {
-      "name": "PB roti roll with cabbage and pineapple salad",
-      "description": "apple | carrot | red onion topping: cilantro & curry mayo",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/541/image/original/pb-roti-roll-with-cabbage-and-pineapple-salad.png"
-    },
-    {
-      "name": "Baby potato salad with pickled rhubarb and cucumber",
-      "description": "fennel | land cress | falafel topping: almonds dressing: elderflower",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/006/image/original/baby-potato-salad-with-pickled-rhubarb-and-cucumber.png"
-    },
-    {
-      "name": "Chickpea mint salad",
-      "description": "chickpeas | mint | spinach",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/866/image/original/chickpea-mint-salad.png"
-    },
-    {
-      "name": "Cream cheese sandwich with marinated carrot",
-      "description": "seaweed | dill | horseradish",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/810/image/original/cream-cheese-sandwich-with-marinated-carrot.png"
-    },
-    {
-      "name": "Mozzarella di bufala sandwich",
-      "description": "red pesto | spinach | olive oil",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/497/image/original/mozzarella-di-bufala-sandwich.png"
-    },
-    {
-      "name": "Old cheese white bun",
+      "name": "Shrimp salad",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/759/image/original/shrimp-salad.png"
     },
     {
-      "name": "Pork fricandeau brown bun",
+      "name": "Grilled chicken  white bun",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/093/image/original/pork-fricandeau-brown-bun.png"
-    }
-  ],
-  "2026-08-18": [
-    {
-      "name": "Pearl couscous with tomato dressing and beef merquez",
-      "description": "chickpeas | fennel | olives \n\ntoppings: land cress | feta",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/531/image/original/pearl-couscous-with-tomato-dressing-and-beef-merquez.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/035/image/original/grilled-chicken-white-bun.png"
     },
     {
-      "name": "Black coconut stew with lentils",
-      "description": "quinoa rice | pumpkin | zucchini\ntoppings: chervil | veggie crisps\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/764/image/original/black-coconut-stew-with-lentils.png"
-    },
-    {
-      "name": "Red bell pepper soup with gochujang",
-      "description": "Spring onion",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/099/image/original/red-bell-pepper-soup-with-gochujang.png"
-    },
-    {
-      "name": "Lemon curd trifle with raspberry and pistachio",
+      "name": "Cumin cheese brown bun",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/820/image/original/lemon-curd-trifle-with-raspberry-and-pistachio.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/895/image/original/cumin-cheese-brown-bun.png"
     },
     {
-      "name": "Roasted chili prawns with cheesy polenta",
-      "description": "fennel | orange | spring onion\n\ntoppings: PB bacon | bulls salad",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/618/image/original/roasted-chili-prawns-with-cheesy-polenta.png"
-    },
-    {
-      "name": "Roasted chili PB prawns with cheesy polenta",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/619/image/original/roasted-chili-pb-prawns-with-cheesy-polenta.png"
-    },
-    {
-      "name": "Roasted chili pineapple with basil mousse",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/494/image/original/roasted-chili-pineapple-with-basil-mousse.png"
-    },
-    {
-      "name": "Sushi rice, marinated salmon and spicy carrot",
-      "description": "edamame bean | oyster sauce | cucumber topping: nori | miso mayonnaise",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/013/image/original/sushi-rice-marinated-salmon-and-spicy-carrot.png"
-    },
-    {
-      "name": "Sushi rice, marinated mushroom and spicy carrots",
-      "description": "edamame bean | teriyaki sauce | cucumber\t\t\t\t\t\t\t\t\t\t\t\t\t topping: nori | miso mayonnaise\t\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/717/image/original/sushi-rice-marinated-mushroom-and-spicy-carrots.png"
-    },
-    {
-      "name": "Rice noodle salad with hoisin tofu",
-      "description": "roasted eggplant | cilantro | carrot",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/125/image/original/rice-noodle-salad-with-hoisin-tofu.png"
-    },
-    {
-      "name": "Chickpea mint salad",
-      "description": "chickpeas | mint | spinach",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/866/image/original/chickpea-mint-salad.png"
-    },
-    {
-      "name": "Mortadella and stracciatella sandwich",
-      "description": "pesto | rocket",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/797/image/original/mortadella-and-stracciatella-sandwich.png"
-    },
-    {
-      "name": "White bean sandwich with smoky salsa",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/325/image/original/white-bean-sandwich-with-smoky-salsa.png"
-    },
-    {
-      "name": "Old cheese white bun",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
-    },
-    {
-      "name": "Pork fricandeau brown bun",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/093/image/original/pork-fricandeau-brown-bun.png"
-    }
-  ],
-  "2026-08-19": [
-    {
-      "name": "Chicken drumsticks and plum olive salsa",
-      "description": "carrot potato mash | haricots verts toppings: almonds | salsa verde",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/655/image/original/chicken-drumsticks-and-plum-olive-salsa.png"
-    },
-    {
-      "name": "Hawaiian-style bowl with PB chicken",
-      "description": "pineapple | rice | green bell pepper\ttopping: lime | spring onion ",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/482/image/original/hawaiian-style-bowl-with-pb-chicken.png"
-    },
-    {
-      "name": "Mushroom soup",
-      "description": "topping: croutons",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/122/image/original/mushroom-soup.png"
-    },
-    {
-      "name": "Lemon curd trifle with raspberry and pistachio",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/820/image/original/lemon-curd-trifle-with-raspberry-and-pistachio.png"
-    },
-    {
-      "name": "Roasted chili prawns with cheesy polenta",
-      "description": "fennel | orange | spring onion\n\ntoppings: PB bacon | bulls salad",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/618/image/original/roasted-chili-prawns-with-cheesy-polenta.png"
-    },
-    {
-      "name": "Roasted chili PB prawns with cheesy polenta",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/619/image/original/roasted-chili-pb-prawns-with-cheesy-polenta.png"
-    },
-    {
-      "name": "Roasted chili pineapple with basil mousse",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/494/image/original/roasted-chili-pineapple-with-basil-mousse.png"
-    },
-    {
-      "name": "Quesadilla minced beef",
-      "description": "bell pepper | sour cream",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/476/image/original/quesadilla-minced-beef.png"
-    },
-    {
-      "name": "Quesadilla with black beans and corn",
-      "description": "bell pepper | sour cream",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/475/image/original/quesadilla-with-black-beans-and-corn.png"
-    },
-    {
-      "name": "Fresh watermelon salad with bulgur",
-      "description": "cucumber | tomato | feta\ttopping: Pimento de padrón dressing: balsamic",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/822/image/original/fresh-watermelon-salad-with-bulgur.png"
-    },
-    {
-      "name": "Chickpea mint salad",
-      "description": "chickpeas | mint | spinach",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/866/image/original/chickpea-mint-salad.png"
-    },
-    {
-      "name": "Sandwich with soy chunks and Caesar spread",
-      "description": "romaine lettuce | fried onions\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/151/image/original/sandwich-with-soy-chunks-and-caesar-spread.png"
-    },
-    {
-      "name": "Brie with plum marmalade and rocket",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/317/image/original/brie-with-plum-marmalade-and-rocket.png"
-    },
-    {
-      "name": "Old cheese white bun",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
-    },
-    {
-      "name": "Pork fricandeau brown bun",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/093/image/original/pork-fricandeau-brown-bun.png"
-    }
-  ],
-  "2026-08-20": [
-    {
-      "name": "Asian beef stew with sweet potato",
-      "description": "jasmine rice | kaffir lime yogurt\t\n\ntopping: lime wedge | chervil\t\n\n",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/095/image/original/asian-beef-stew-with-sweet-potato.png"
-    },
-    {
-      "name": "Tagliatelle pasta with fiery tomato sauce",
-      "description": "Kalamata olives | bell pepper | spinach\ttoppings: parsley | PB sour cream",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/000/image/original/tagliatelle-pasta-with-fiery-tomato-sauce.png"
-    },
-    {
-      "name": "Tomato eggplant soup",
-      "description": "topping: za'atar",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/123/image/original/tomato-eggplant-soup.png"
-    },
-    {
-      "name": "Pandan mousse with mango coulis and coconut crumble",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/377/image/original/pandan-mousse-with-mango-coulis-and-coconut-crumble.png"
-    },
-    {
-      "name": "Roasted chili prawns with cheesy polenta",
-      "description": "fennel | orange | spring onion\n\ntoppings: PB bacon | bulls salad",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/618/image/original/roasted-chili-prawns-with-cheesy-polenta.png"
-    },
-    {
-      "name": "Roasted chili PB prawns with cheesy polenta",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/619/image/original/roasted-chili-pb-prawns-with-cheesy-polenta.png"
-    },
-    {
-      "name": "Roasted chili pineapple with basil mousse",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/494/image/original/roasted-chili-pineapple-with-basil-mousse.png"
-    },
-    {
-      "name": "Potato rösti with pulled chicken and slaw",
-      "description": "cucumber | red cabbage | carrot topping: PB bacon crumble",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/403/image/original/potato-rosti-with-pulled-chicken-and-slaw.png"
-    },
-    {
-      "name": "Potato rösti with PB pulled chicken and slaw",
-      "description": "cucumber | red cabbage | carrot topping: PB bacon crumble",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/404/image/original/potato-rosti-with-pb-pulled-chicken-and-slaw.png"
-    },
-    {
-      "name": "Chipotle marinated tempeh and quinoa cauliflower salad",
-      "description": "roasted sweet potato | red cabbage | bell pepper\ttopping: jalapeño\t dressing: salsa macha",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/755/image/original/chipotle-marinated-tempeh-and-quinoa-cauliflower-salad.png"
-    },
-    {
-      "name": "Chickpea mint salad",
-      "description": "chickpeas | mint | spinach",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/866/image/original/chickpea-mint-salad.png"
-    },
-    {
-      "name": "Falafel with cilantro hummus sandwich",
-      "description": "bell pepper ",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/616/image/original/falafel-with-cilantro-hummus-sandwich.png"
-    },
-    {
-      "name": "Caesar style chicken sandwich",
-      "description": "Grana Padano | lettuce",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/796/image/original/caesar-style-chicken-sandwich.png"
-    },
-    {
-      "name": "Old cheese white bun",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
-    },
-    {
-      "name": "Pork fricandeau brown bun",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/093/image/original/pork-fricandeau-brown-bun.png"
-    }
-  ],
-  "2026-08-21": [
-    {
-      "name": "Spicy pulled chicken and rice bowl",
-      "description": "wild rice | red cabbage | beets\t\t\n\ntopping: lime wedge | PB crème fraîche\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/478/image/original/spicy-pulled-chicken-and-rice-bowl.png"
-    },
-    {
-      "name": "Spicy pulled jackfruit and rice bowl",
-      "description": "wild rice | red cabbage | beets\ntoppings: PB crème fraîche\t| lime wedge\t\n\n",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/483/image/original/spicy-pulled-jackfruit-and-rice-bowl.png"
-    },
-    {
-      "name": "Sweet potato and yellow bell pepper soup",
-      "description": "topping: crispy chickpeas",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/420/image/original/sweet-potato-and-yellow-bell-pepper-soup.png"
-    },
-    {
-      "name": "Pandan mousse with mango coulis and coconut crumble",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/377/image/original/pandan-mousse-with-mango-coulis-and-coconut-crumble.png"
-    },
-    {
-      "name": "Roasted chili prawns with cheesy polenta",
-      "description": "fennel | orange | spring onion\n\ntoppings: PB bacon | bulls salad",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/618/image/original/roasted-chili-prawns-with-cheesy-polenta.png"
-    },
-    {
-      "name": "Roasted chili PB prawns with cheesy polenta",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/619/image/original/roasted-chili-pb-prawns-with-cheesy-polenta.png"
-    },
-    {
-      "name": "Roasted chili pineapple with basil mousse",
-      "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/494/image/original/roasted-chili-pineapple-with-basil-mousse.png"
-    },
-    {
-      "name": "Bami with marinated pork belly",
-      "description": "mushrooms | bok choy | atjar\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/438/image/original/bami-with-marinated-pork-belly.png"
-    },
-    {
-      "name": "Bami with marinated tempeh",
-      "description": "mushrooms | bok choy | atjar\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/452/image/original/bami-with-marinated-tempeh.png"
-    },
-    {
-      "name": "Fattoush salad with baba ganoush",
-      "description": "pita croutons | spinach | green beans\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/295/image/original/fattoush-salad-with-baba-ganoush.png"
-    },
-    {
-      "name": "Chickpea mint salad",
-      "description": "chickpeas | mint | spinach",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/008/866/image/original/chickpea-mint-salad.png"
-    },
-    {
-      "name": "Curried cauliflower sandwich with mango hummus",
+      "name": "Rendang jackfruit sandwich",
       "description": "cucumber | pickled red onion",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/792/image/original/curried-cauliflower-sandwich-with-mango-hummus.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/444/image/original/rendang-jackfruit-sandwich.png"
     },
     {
-      "name": "Shrimp sandwich with cocktail sauce",
-      "description": "little gem | pickled red onion\t",
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/467/image/original/shrimp-sandwich-with-cocktail-sauce.png"
+      "name": "Egg salad sandwich",
+      "description": "iceberg | cornichons | tomato",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/498/image/original/egg-salad-sandwich.png"
+    }
+  ],
+  "2026-08-25": [
+    {
+      "name": "Persian yellow rice with tender apricot chicken",
+      "description": "roasted carrot | turnip | herb salad\ttoppings: yoghurt dip | harissa",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/819/image/original/persian-yellow-rice-with-tender-apricot-chicken.png"
     },
     {
-      "name": "Old cheese white bun",
+      "name": "Minced balls and garlic chives potato mash",
+      "description": "fennel salad | brown mustard sauce \ntoppings: hazelnuts & PB bacon crumble | chervil",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/769/image/original/minced-balls-and-garlic-chives-potato-mash.png"
+    },
+    {
+      "name": "Potato soup with truffle",
+      "description": "crème fraîche\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/205/image/original/potato-soup-with-truffle.png"
+    },
+    {
+      "name": "Mango, pineapple and grapes with coconut dressing",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/812/image/original/mango-pineapple-and-grapes-with-coconut-dressing.png"
     },
     {
-      "name": "Pork fricandeau brown bun",
+      "name": "Noodle soup with marinated duck and shiitake",
+      "description": "bean sprouts | bok choy | ginger \n\ntopping: spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/643/image/original/noodle-soup-with-marinated-duck-and-shiitake.png"
+    },
+    {
+      "name": "Noodle soup with marinated tofu and shiitake",
+      "description": "bean sprouts | bok choy | ginger topping: spring onion\n",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/642/image/original/noodle-soup-with-marinated-tofu-and-shiitake.png"
+    },
+    {
+      "name": "Poached pears with merengue and chocolate",
       "description": null,
-      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/093/image/original/pork-fricandeau-brown-bun.png"
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/498/image/original/poached-pears-with-merengue-and-chocolate.png"
+    },
+    {
+      "name": "Roasted potato with Sloppy Joe (beef)",
+      "description": "corn | lettuce | cabbage | spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/450/image/original/roasted-potato-with-sloppy-joe-beef.png"
+    },
+    {
+      "name": "Roasted potato with PB Sloppy Joe",
+      "description": "corn | lettuce | cabbage | spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/449/image/original/roasted-potato-with-pb-sloppy-joe.png"
+    },
+    {
+      "name": "Mango, pineapple and grapes with coconut dressing",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/812/image/original/mango-pineapple-and-grapes-with-coconut-dressing.png"
+    },
+    {
+      "name": "Cannellini bean salad with spinach salsa",
+      "description": "quinoa | yellow beet | pickles\t\ntopping: hazelnuts dressing: citrus",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/297/image/original/cannellini-bean-salad-with-spinach-salsa.png"
+    },
+    {
+      "name": "Shrimp salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/759/image/original/shrimp-salad.png"
+    },
+    {
+      "name": "Grilled chicken  white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/035/image/original/grilled-chicken-white-bun.png"
+    },
+    {
+      "name": "Cumin cheese brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/895/image/original/cumin-cheese-brown-bun.png"
+    },
+    {
+      "name": "PB Tuna sandwich",
+      "description": "romaine | lettuce",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/375/image/original/pb-tuna-sandwich.png"
+    },
+    {
+      "name": "Smoked chicken and muhammara sandwich",
+      "description": "arugula | radish\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/452/image/original/smoked-chicken-and-muhammara-sandwich.png"
+    }
+  ],
+  "2026-08-26": [
+    {
+      "name": "Sticky sesame chicken with watermelon",
+      "description": "kohlrabi | cucumber | wholegrain rice\ttopping: spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/526/image/original/sticky-sesame-chicken-with-watermelon.png"
+    },
+    {
+      "name": "Sticky sesame cauliflower with watermelon",
+      "description": "kohlrabi | cucumber | wholegrain rice\ttopping: spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/527/image/original/sticky-sesame-cauliflower-with-watermelon.png"
+    },
+    {
+      "name": "Red lentil soup with rosemary",
+      "description": "lime",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/002/707/image/original/Paprikasoep.png"
+    },
+    {
+      "name": "Mango, pineapple and grapes with coconut dressing",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/812/image/original/mango-pineapple-and-grapes-with-coconut-dressing.png"
+    },
+    {
+      "name": "Noodle soup with marinated duck and shiitake",
+      "description": "bean sprouts | bok choy | ginger \n\ntopping: spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/643/image/original/noodle-soup-with-marinated-duck-and-shiitake.png"
+    },
+    {
+      "name": "Noodle soup with marinated tofu and shiitake",
+      "description": "bean sprouts | bok choy | ginger topping: spring onion\n",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/642/image/original/noodle-soup-with-marinated-tofu-and-shiitake.png"
+    },
+    {
+      "name": "Poached pears with merengue and chocolate",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/498/image/original/poached-pears-with-merengue-and-chocolate.png"
+    },
+    {
+      "name": "Pork mince and broccoli noodles",
+      "description": "chili oil | oyster sauce | peanuts topping: spring onion & peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/444/image/original/pork-mince-and-broccoli-noodles.png"
+    },
+    {
+      "name": "PB mince and broccoli noodles",
+      "description": "chili oil | soy sauce | peanuts topping: spring onion & peanuts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/445/image/original/pb-mince-and-broccoli-noodles.png"
+    },
+    {
+      "name": "Mango, pineapple and grapes with coconut dressing",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/812/image/original/mango-pineapple-and-grapes-with-coconut-dressing.png"
+    },
+    {
+      "name": "Pasta salad with red pesto",
+      "description": "zucchini | tomato | Grana Padano\ttopping: seed mix dressing: red wine vinegar",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/431/image/original/pasta-salad-with-red-pesto.png"
+    },
+    {
+      "name": "Shrimp salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/759/image/original/shrimp-salad.png"
+    },
+    {
+      "name": "Grilled chicken  white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/035/image/original/grilled-chicken-white-bun.png"
+    },
+    {
+      "name": "Cumin cheese brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/895/image/original/cumin-cheese-brown-bun.png"
+    },
+    {
+      "name": "White bean jalapeño spread sandwich",
+      "description": "PB bacon | little gem | tomato",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/608/image/original/white-bean-jalapeno-spread-sandwich.png"
+    },
+    {
+      "name": "Roast beef sandwich",
+      "description": "black pepper mayo | onion compote",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/619/image/original/roast-beef-sandwich.png"
+    }
+  ],
+  "2026-08-27": [
+    {
+      "name": "Corsican-style beef  with pasta and bell pepper",
+      "description": "turkey bacon | tomato | olive relish\t\n\ntoppings: goat cheese\t| parsley\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/688/image/original/corsican-style-beef-with-pasta-and-bell-pepper.png"
+    },
+    {
+      "name": "Caramalized Onion Curry",
+      "description": "<p><strong>Caramelized onion curry with zhug flavored lentil and rice mixture, and eggplant.</strong></p>",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/003/192/image/original/caramelizedonioncurry.png"
+    },
+    {
+      "name": "Miso soup with roasted cauliflower and lime",
+      "description": "bean sprouts",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/203/image/original/miso-soup-with-roasted-cauliflower-and-lime.png"
+    },
+    {
+      "name": "Banana cake with lemon cream and chocolate",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/739/image/original/banana-cake-with-lemon-cream-and-chocolate.png"
+    },
+    {
+      "name": "Noodle soup with marinated duck and shiitake",
+      "description": "bean sprouts | bok choy | ginger \n\ntopping: spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/643/image/original/noodle-soup-with-marinated-duck-and-shiitake.png"
+    },
+    {
+      "name": "Noodle soup with marinated tofu and shiitake",
+      "description": "bean sprouts | bok choy | ginger topping: spring onion\n",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/642/image/original/noodle-soup-with-marinated-tofu-and-shiitake.png"
+    },
+    {
+      "name": "Poached pears with merengue and chocolate",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/498/image/original/poached-pears-with-merengue-and-chocolate.png"
+    },
+    {
+      "name": "Skipjack tuna melt pita with iceberg lettuce",
+      "description": "potato | tomato | celery topping: jalapeño relish & chips",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/442/image/original/skipjack-tuna-melt-pita-with-iceberg-lettuce.png"
+    },
+    {
+      "name": "PB tuna melt pita with iceberg lettuce",
+      "description": "potato | tomato | celery topping: jalapeño relish & chips",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/443/image/original/pb-tuna-melt-pita-with-iceberg-lettuce.png"
+    },
+    {
+      "name": "Banana cake with lemon cream and chocolate",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/739/image/original/banana-cake-with-lemon-cream-and-chocolate.png"
+    },
+    {
+      "name": "Butter bean salad with roasted sweet potato and red onion",
+      "description": "broad bean dip | tomato | lettuce topping: crispy corn dressing: green goddess",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/009/image/original/butter-bean-salad-with-roasted-sweet-potato-and-red-onion.png"
+    },
+    {
+      "name": "Shrimp salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/759/image/original/shrimp-salad.png"
+    },
+    {
+      "name": "Grilled chicken  white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/035/image/original/grilled-chicken-white-bun.png"
+    },
+    {
+      "name": "Cumin cheese brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/895/image/original/cumin-cheese-brown-bun.png"
+    },
+    {
+      "name": "Goat’s cheese sandwich with apple",
+      "description": "honey mustard | pickled apple\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/451/image/original/goats-cheese-sandwich-with-apple.png"
+    },
+    {
+      "name": "Eggplant with PB cream cheese and mango sauce",
+      "description": "dill | lettuce| za'atar",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/376/image/original/eggplant-with-pb-cream-cheese-and-mango-sauce.png"
+    }
+  ],
+  "2026-08-28": [
+    {
+      "name": "Smoked trout and hashbrowns",
+      "description": "green pea puree | baby spinach\ttoppings: lavas | pea shoots",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/528/image/original/smoked-trout-and-hashbrowns.png"
+    },
+    {
+      "name": "Bell pepper dal with rosewater cream dip",
+      "description": "pita | green beans\ttoppings: almond dukkah\t| padina chutney\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/771/image/original/bell-pepper-dal-with-rosewater-cream-dip.png"
+    },
+    {
+      "name": "Wild garlic soup",
+      "description": "topping: basil oil",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/085/image/original/wild-garlic-soup.png"
+    },
+    {
+      "name": "Banana cake with lemon cream and chocolate",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/739/image/original/banana-cake-with-lemon-cream-and-chocolate.png"
+    },
+    {
+      "name": "Noodle soup with marinated duck and shiitake",
+      "description": "bean sprouts | bok choy | ginger \n\ntopping: spring onion",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/643/image/original/noodle-soup-with-marinated-duck-and-shiitake.png"
+    },
+    {
+      "name": "Noodle soup with marinated tofu and shiitake",
+      "description": "bean sprouts | bok choy | ginger topping: spring onion\n",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/642/image/original/noodle-soup-with-marinated-tofu-and-shiitake.png"
+    },
+    {
+      "name": "Poached pears with merengue and chocolate",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/498/image/original/poached-pears-with-merengue-and-chocolate.png"
+    },
+    {
+      "name": "Gochujang noodles with savoy cabbage and chicken",
+      "description": "peanut | veggies | sesame\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/453/image/original/gochujang-noodles-with-savoy-cabbage-and-chicken.png"
+    },
+    {
+      "name": "Gochujang noodles with savoy cabbage and tofu",
+      "description": "peanut | veggies | sesame\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/540/image/original/gochujang-noodles-with-savoy-cabbage-and-tofu.png"
+    },
+    {
+      "name": "Banana cake with lemon cream and chocolate",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/739/image/original/banana-cake-with-lemon-cream-and-chocolate.png"
+    },
+    {
+      "name": "Gado gado-style salad with wild rice",
+      "description": "egg | green beans | peanut sauce\t\ntopping: cassava krupuk dressing: Gado Gado",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/759/image/original/gado-gado-style-salad-with-wild-rice.png"
+    },
+    {
+      "name": "Shrimp salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/759/image/original/shrimp-salad.png"
+    },
+    {
+      "name": "Grilled chicken  white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/035/image/original/grilled-chicken-white-bun.png"
+    },
+    {
+      "name": "Cumin cheese brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/010/895/image/original/cumin-cheese-brown-bun.png"
+    },
+    {
+      "name": "Spiced PB chicken with hummus sandwich",
+      "description": "beet | atjar",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/454/image/original/spiced-pb-chicken-with-hummus-sandwich.png"
+    },
+    {
+      "name": "Ham sandwich with mustard mayo",
+      "description": "pickles",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/789/image/original/ham-sandwich-with-mustard-mayo.png"
     }
   ]
 };
