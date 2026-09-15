@@ -1,4 +1,4 @@
-// updated on 2026-09-13T03:14:04.258Z
+// updated on 2026-09-15T08:38:07.378Z
 const menu_per_day = {
   "2026-09-14": [
     {
@@ -13,7 +13,7 @@ const menu_per_day = {
     },
     {
       "name": "Indian lentil soup with garam masala",
-      "description": "smoky breadcrumbs\t",
+      "description": "Almonds",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/115/image/original/indian-lentil-soup-with-garam-masala.png"
     },
     {
@@ -50,6 +50,36 @@ const menu_per_day = {
       "name": "Chocolate peanut pie with mango lassi cream",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/658/image/original/chocolate-peanut-pie-with-mango-lassi-cream.png"
+    },
+    {
+      "name": "Creamy celeriac and baby potato salad",
+      "description": " parsnip | chicory | fresh herbs\n\ntopping:  PB bacon | hazelnuts | dressing: french",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/015/050/image/original/creamy-celeriac-and-baby-potato-salad.png"
+    },
+    {
+      "name": "Italian bean salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/486/image/original/italian-bean-salad.png"
+    },
+    {
+      "name": "Old cheese white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
+    },
+    {
+      "name": "Smoked beef brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/382/image/original/smoked-beef-brown-bun.png"
+    },
+    {
+      "name": "Cheese with spicy mayo sandwich",
+      "description": "cucumber",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/495/image/original/cheese-with-spicy-mayo-sandwich.png"
+    },
+    {
+      "name": "Smashed chickpea sandwich with pickled red onion",
+      "description": "furikake | dill\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/596/image/original/smashed-chickpea-sandwich-with-pickled-red-onion.png"
     }
   ],
   "2026-09-15": [
@@ -102,6 +132,36 @@ const menu_per_day = {
       "name": "Lemon curd with forest fruit compote",
       "description": "with Forest Fruit Compote",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/761/image/original/lemon-curd-with-forest-fruit-compote.png"
+    },
+    {
+      "name": "Rice noodle salad with miso crumble",
+      "description": "pumpkin | edamame | red cabbage\n\ntopping: peanuts | dressing: peanut dressing",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/935/image/original/rice-noodle-salad-with-miso-crumble.png"
+    },
+    {
+      "name": "Italian bean salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/486/image/original/italian-bean-salad.png"
+    },
+    {
+      "name": "Old cheese white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
+    },
+    {
+      "name": "Smoked beef brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/382/image/original/smoked-beef-brown-bun.png"
+    },
+    {
+      "name": "Baguette with chicken salad, tomato and lettuce",
+      "description": "tomato salsa | lettuce ",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/610/image/original/baguette-with-chicken-salad-tomato-and-lettuce.png"
+    },
+    {
+      "name": "Banh Mi-style tofu sandwich",
+      "description": "carrots | cucumber | cilantro",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/015/018/image/original/banh-mi-style-tofu-sandwich.png"
     }
   ],
   "2026-09-16": [
@@ -154,6 +214,36 @@ const menu_per_day = {
       "name": "Lemon curd with forest fruit compote",
       "description": "with Forest Fruit Compote",
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/761/image/original/lemon-curd-with-forest-fruit-compote.png"
+    },
+    {
+      "name": "Sesame couscous salad with pumpkin",
+      "description": "broccoli | snow peas | fresh herbs\t\n\ntopping: sumac marinated onions| dressing: sesame dressing\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/956/image/original/sesame-couscous-salad-with-pumpkin.png"
+    },
+    {
+      "name": "Italian bean salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/486/image/original/italian-bean-salad.png"
+    },
+    {
+      "name": "Old cheese white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
+    },
+    {
+      "name": "Smoked beef brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/382/image/original/smoked-beef-brown-bun.png"
+    },
+    {
+      "name": "Salmon and beetroot salad",
+      "description": "horseradish | dill | lamb lettuce mix",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/015/013/image/original/salmon-and-beetroot-salad.png"
+    },
+    {
+      "name": "Whipped PB feta and roasted bell pepper sandwich",
+      "description": "arugula | hazelnuts ",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/015/014/image/original/whipped-pb-feta-and-roasted-bell-pepper-sandwich.png"
     }
   ],
   "2026-09-17": [
@@ -206,6 +296,36 @@ const menu_per_day = {
       "name": "Grape cantaloupe and mango salad",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/723/image/original/grape-cantaloupe-and-mango-salad.png"
+    },
+    {
+      "name": "Indian roasted vegetable salad with egg",
+      "description": "sweet potato | cauliflower | cilantro | tofu\t\n\nTopping: fried onions | dressing: peanut dressing\n",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/955/image/original/indian-roasted-vegetable-salad-with-egg.png"
+    },
+    {
+      "name": "Italian bean salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/486/image/original/italian-bean-salad.png"
+    },
+    {
+      "name": "Old cheese white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
+    },
+    {
+      "name": "Smoked beef brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/382/image/original/smoked-beef-brown-bun.png"
+    },
+    {
+      "name": "Ham and zucchini sandwich",
+      "description": "salted lemon mayo | rucola",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/602/image/original/ham-and-zucchini-sandwich.png"
+    },
+    {
+      "name": "PB Tuna sandwich",
+      "description": "romaine | lettuce",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/375/image/original/pb-tuna-sandwich.png"
     }
   ],
   "2026-09-18": [
@@ -258,6 +378,36 @@ const menu_per_day = {
       "name": "Grape cantaloupe and mango salad",
       "description": null,
       "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/723/image/original/grape-cantaloupe-and-mango-salad.png"
+    },
+    {
+      "name": "Mediterranean orzo salad",
+      "description": "black eyed beans | tomato | olives | feta\t\n\ntopping: spring onion | dressing: balsamic dressing\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/771/image/original/mediterranean-orzo-salad.png"
+    },
+    {
+      "name": "Italian bean salad",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/011/486/image/original/italian-bean-salad.png"
+    },
+    {
+      "name": "Old cheese white bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/009/025/image/original/young-cheese-white-bun.png"
+    },
+    {
+      "name": "Smoked beef brown bun",
+      "description": null,
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/012/382/image/original/smoked-beef-brown-bun.png"
+    },
+    {
+      "name": "Blue cheese and apple sandwich",
+      "description": "chutney | rocket",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/013/793/image/original/blue-cheese-and-apple-sandwich.png"
+    },
+    {
+      "name": "Curried PB chicken sandwich",
+      "description": "apple | spinach | pickled onion\t",
+      "image": "https://join-program.s3.eu-west-1.amazonaws.com/./App/Models/ProductVersionImage/000/014/613/image/original/curried-pb-chicken-sandwich.png"
     }
   ]
 };
